@@ -29,7 +29,7 @@ const Banner = () => {
       >
         <SwiperSlide><img src="https://i.ibb.co/DgZMWDc/20231203-181724.jpg" /></SwiperSlide>
         <SwiperSlide><img src="https://i.ibb.co/bFFNVY0/20231203-190151.jpg" /></SwiperSlide>
-        gdd
+        
       
       </Swiper>
         </div>
