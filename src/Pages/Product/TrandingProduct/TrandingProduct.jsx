@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 import useAxiosPublic from "../../../Hook/useAxiosPublic";
 
 
-const TrandingProduct = () => {
+const TrandingProduct = () => 
     const [featured, setFeatured] = useState([]);
     const myAxios = useAxiosPublic()
     useEffect(() => {
