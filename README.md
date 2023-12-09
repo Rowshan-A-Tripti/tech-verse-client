@@ -1,10 +1,10 @@
 live link : https://hitech-9b19f.web.app
 
-# HiTech Tech Store
+# Tech verse Store
 
 Welcome to HiTech, your ultimate destination for high-tech gadgets and devices. Explore the latest in technology, find cutting-edge products, and experience a seamless online shopping journey.
 
-![HiTech Tech Store](https://link-to-your-website-screenshot)
+
 
 ## 🚀 About Us
 
@@ -28,10 +28,6 @@ At HiTech, we're passionate about bringing you the latest and greatest in techno
 4. **Blog and Insights:**
    - Stay updated with our blog, featuring articles on the latest tech trends, reviews, and how-to guides.
 
-## 📷 Screenshots
-
-![Homepage](https://link-to-screenshot-homepage)
-![Product Page](https://link-to-screenshot-product-page)
 
 ## 🚀 Technologies Used
 
@@ -39,11 +35,3 @@ At HiTech, we're passionate about bringing you the latest and greatest in techno
 - **Backend:** Firebase (Authentication, Firestore)
 - **Hosting:** Firebase Hosting
 - **Payment Processing:** [Stripe](https://stripe.com)
-
-## 🌐 Getting Started
-
-To run the project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/hitech-tech-store.git
